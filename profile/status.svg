@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-labelledby="title desc">
+  <title id="title">DALOVA · Estado del desarrollo</title>
+  <desc id="desc">La primera actualización de estadísticas está pendiente de datos completos y verificados.</desc>
+  <rect width="800" height="240" rx="20" fill="#0f172a"/>
+  <g font-family="system-ui,Segoe UI,sans-serif" fill="#f8fafc">
+    <text x="32" y="55" font-size="25" font-weight="700">DALOVA · Desarrollo</text>
+    <rect x="32" y="85" width="736" height="104" rx="12" fill="#1e293b"/>
+    <text x="52" y="126" font-size="20" font-weight="600">Esperando datos verificados</text>
+    <text x="52" y="159" font-size="15" fill="#cbd5e1">Las estadísticas aparecerán después de la primera actualización validada.</text>
+    <text x="32" y="218" font-size="13" fill="#cbd5e1">Transparencia responsable · Estadísticas agregadas</text>
+  </g>
+</svg>
