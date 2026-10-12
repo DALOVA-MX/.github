@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+<title id="title">DALOVA · Punto de venta y gestión</title>
+<desc id="desc">Punto de venta y gestión para la nueva generación de negocios. Beta v0.1.0. dalova.com.mx.</desc>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect width="600" height="420" rx="24" fill="#0c1721"/><rect x="1" y="1" width="598" height="418" rx="23" fill="none" stroke="#2b414b"/><rect x="40" y="28" width="170" height="34" rx="17" fill="#214440"/><circle cx="57" cy="45" r="4" fill="#6cc8b6"/><text x="70" y="51" font-size="17.0" font-weight="600" fill="#bfece1">BETA · v0.1.0</text><text x="36" y="150" font-size="82" font-weight="700" letter-spacing="-3" fill="#f5f8f8">DALOVA</text><rect x="40" y="175" width="46" height="4" rx="2" fill="#6cc8b6"/><text x="40" y="227" font-size="29" fill="#f5f8f8">Punto de venta y gestión para</text><text x="40" y="265" font-size="29" fill="#b7c5cb">la nueva generación de negocios.</text><rect x="40" y="318" width="257" height="60" rx="14" fill="#6cc8b6"/><text x="60" y="356" font-size="25" font-weight="600" fill="#08251f">dalova.com.mx</text><path d="M260 341h15m-6-6 6 6-6 6" fill="none" stroke="#08251f" stroke-width="2"/>
+</g>
+</svg>

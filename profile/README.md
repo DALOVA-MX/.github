@@ -1,28 +1,26 @@
-# DALOVA México
+<a href="https://dalova.com.mx">
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/hero-mobile.svg?v=872caf4f5bc4a0838b35">
+  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/hero.svg?v=872caf4f5bc4a0838b35" alt="DALOVA — Punto de venta y gestión para la nueva generación de negocios. Beta v0.1.0. Visita dalova.com.mx." width="1200">
+</picture>
+</a>
 
-**Punto de venta y administración comercial en una plataforma.**
+### Estado de DALOVA
 
-Desarrollamos DALOVA para conectar la operación del negocio con herramientas de venta y gestión comercial.
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/status-mobile.svg?v=872caf4f5bc4a0838b35">
+  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/status.svg?v=872caf4f5bc4a0838b35" alt="Estado de DALOVA: estadísticas agregadas de desarrollo y versión actual." width="1200">
+</picture>
 
-## Desarrollo en cifras
+### Una plataforma para operar tu negocio.
 
-![Estado agregado del desarrollo de DALOVA](https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/status.svg)
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/product-mobile.svg?v=872caf4f5bc4a0838b35">
+  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/product.svg?v=872caf4f5bc4a0838b35" alt="POS Web / PWA · Desktop · Inventario · Ventas y caja · Storefront · DALOVA AI" width="1200">
+</picture>
 
-| Indicador | Total |
-| :--- | ---: |
-| Issues abiertas | 1 |
-| Issues cerradas | 0 |
-| Backlog | 1 |
-| En progreso | 0 |
-| Listo para QA | 0 |
-| Aprobado / Hecho | 0 |
+<p align="center"><sub>TypeScript · React · Fastify · PostgreSQL · Tauri · Next.js</sub></p>
 
-**Versión actual del código:** `0.1.0` · **Actualizado:** 2026-10-12T05:40:55Z (UTC).
-
-Los conteos de Issues excluyen pull requests. Las columnas representan los elementos activos del Project de desarrollo; incluyen borradores y excluyen elementos archivados o sin estado. Aprobado / Hecho agrupa las columnas de cierre. La versión corresponde a los manifiestos coincidentes de Desktop, Tauri y Cargo; no certifica una versión desplegada o disponible para descargar.
-
-## Transparencia responsable
-
-Este perfil comparte exclusivamente estadísticas agregadas. El código, los detalles de trabajo y los datos operativos permanecen privados. Si GitHub no entrega datos completos y válidos, se conserva la última actualización verificada.
-
-[Organización DALOVA México](https://github.com/DALOVA-MX)
+<p align="center"><sub>Estadísticas agregadas automáticamente. El código y la operación interna permanecen privados.<br>
+Última actualización: 12 oct 2026 · 05:52 UTC<br>
+<a href="https://dalova.com.mx">dalova.com.mx</a></sub></p>
