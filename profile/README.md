@@ -1,26 +1,26 @@
 <a href="https://dalova.com.mx">
 <picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/hero-mobile.svg?v=3381697ee71dbc4f2d5b">
-  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/hero.svg?v=3381697ee71dbc4f2d5b" alt="DALOVA — Punto de venta y gestión para la nueva generación de negocios. Beta v0.1.0. Visita dalova.com.mx." width="1200">
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/hero-mobile.svg?v=b1e05e0c295d9d7479d3">
+  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/hero.svg?v=b1e05e0c295d9d7479d3" alt="DALOVA — Punto de venta y gestión para la nueva generación de negocios. Beta v0.1.0. Visita dalova.com.mx." width="1200">
 </picture>
 </a>
 
 ### Estado de DALOVA
 
 <picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/status-mobile.svg?v=3381697ee71dbc4f2d5b">
-  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/status.svg?v=3381697ee71dbc4f2d5b" alt="Estado de DALOVA: estadísticas agregadas de desarrollo y versión actual." width="1200">
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/status-mobile.svg?v=b1e05e0c295d9d7479d3">
+  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/status.svg?v=b1e05e0c295d9d7479d3" alt="Estado de DALOVA: estadísticas agregadas de desarrollo y versión actual." width="1200">
 </picture>
 
 ### Una plataforma para operar tu negocio.
 
 <picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/product-mobile.svg?v=3381697ee71dbc4f2d5b">
-  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/product.svg?v=3381697ee71dbc4f2d5b" alt="POS Web / PWA · Desktop · Inventario · Ventas y caja · Storefront · DALOVA AI" width="1200">
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/product-mobile.svg?v=b1e05e0c295d9d7479d3">
+  <img src="https://raw.githubusercontent.com/DALOVA-MX/.github/main/profile/assets/product.svg?v=b1e05e0c295d9d7479d3" alt="POS Web / PWA · Desktop · Inventario · Ventas y caja · Storefront · DALOVA AI" width="1200">
 </picture>
 
 <p align="center"><sub>TypeScript · React · Fastify · PostgreSQL · Tauri · Next.js</sub></p>
 
 <p align="center"><sub>Estadísticas agregadas automáticamente. El código y la operación interna permanecen privados.<br>
-Última actualización: 27 oct 2026 · 04:58 UTC<br>
+Última actualización: 27 oct 2026 · 12:06 UTC<br>
 <a href="https://dalova.com.mx">dalova.com.mx</a></sub></p>
